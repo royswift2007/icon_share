@@ -1,3 +1,9 @@
+## Screenshot / 界面截图
+
+![Symbol & Emoji Collection Screenshot](assets/screenshot.png)
+
+
+
 # Symbol & Emoji Collection
 
 一个可搜索、可分类浏览、支持一键复制的符号与 Emoji 静态网页工具。  
